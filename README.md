@@ -1,2 +1,0 @@
-# Datawrapper
-Dashboard em Datawrapper
