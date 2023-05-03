@@ -7,7 +7,8 @@ Este simples dashboard foi criado apenas para mostrar a utilização da ferramen
 
 Nele foram utilizados alguns dados fornecidos pela Netflix, onde você poderá encontrar dados, que semanalmente são atualizados com os 10 filmes e séries mais
 assistidos, distribuidos por pais, lingua, número de horas visualizados, suas posições no ranking, entre outras informações.
-Para quem gosta de manipular dados, identificar tendências e insights é um boa oportunidade paraestimular a criatividade !!
+
+Para quem gosta de manipular dados, identificar tendências e insights é um boa oportunidade para estimular a criatividade !!
 
 
 #### Ferramentas utilizadas:
