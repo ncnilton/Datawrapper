@@ -10,8 +10,12 @@ assistidos, distribuidos por pais, lingua, número de horas visualizados, suas p
 
 Para quem gosta de manipular dados, identificar tendências e insights é um boa oportunidade para estimular a criatividade !!
 
+- Acesse o site
+<html5>
+<a href="https://ncnilton.github.io/Datawrapper/" target="_blank" ><img align="center" alt="html5" src = "docs/Cabecalho.png"?style=for-the-badge&logo=r&logoColor=white" height=32 /> </a>
 
-- Link para o Site
+</html5>
+
 - Ou pelo celular
  
 
