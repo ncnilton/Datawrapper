@@ -12,7 +12,7 @@ Para quem gosta de manipular dados, identificar tendências e insights é um boa
 
 - Acesse o site
 <html5>
-<a href="https://ncnilton.github.io/Datawrapper/" target="_blank" ><img align="center" alt="html5" src = "docs/Cabecalho.png"?style=for-the-badge&logo=r&logoColor=white" height=32 /> </a>
+<a href="https://ncnilton.github.io/Datawrapper/" target="_blank"><img align="center" alt="html5" src = "docs/SiteDash.png"?style=for-the-badge&logo=r&logoColor=white" height=32 /> </a>
 
 </html5>
 
