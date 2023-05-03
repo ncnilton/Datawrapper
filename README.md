@@ -1,7 +1,7 @@
 # Datawrapper
 Dashboard com Datawrapper
 
-![github-large](docs/PrintSite.PNG)
+[![github-large](docs/PrintSite.PNG)](https://ncnilton.github.io/Datawrapper/)
 
 Este simples dashboard foi criado apenas para mostrar a utilização da ferramenta Datawrapper na geração de gráficos interativos e on-line e a possibilidade de criar Dashboards com simples manuseios em HTML5.
 
