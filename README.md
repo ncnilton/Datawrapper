@@ -1,7 +1,5 @@
 # Datawrapper
-Dashboard em Datawrapper
-
-### Publicação em breve 
+Dashboard com Datawrapper
 
 Este simples dashboard foi criado apenas para mostrar a utilização da ferramenta Datawrapper na geração de gráficos interativos e on-line e a possibilidade de criar Dashboards com simples manuseios em HTML5.
 
