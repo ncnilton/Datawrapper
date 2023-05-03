@@ -8,6 +8,10 @@ assistidos, distribuidos por pais, lingua, número de horas visualizados, suas p
 
 Para quem gosta de manipular dados, identificar tendências e insights é um boa oportunidade para estimular a criatividade !!
 
+- Print do site ou video
+- Link para o Site
+- Ou pelo celular
+ 
 
 #### Ferramentas utilizadas:
 - Dados tratados com Python
