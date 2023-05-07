@@ -15,13 +15,7 @@ Para quem gosta de manipular dados, identificar tendências e insights é um boa
 <a href="https://ncnilton.github.io/Datawrapper/" target="_blank"><img align="center" alt="html5" src = "docs/SiteDash.png"?style=for-the-badge&logo=r&logoColor=white" height=32 /> </a>
 <p><p>
 </html5>
- 
-- Ou pelo celular
-<html5>
-<a href="https://ncnilton.github.io/Datawrapper/" target="_blank"><img align="center" alt="html5" src = "docs/qrcode_ncnilton.github.io.png?style=for-the-badge&logo=r&logoColor=white" height=200 " /> </a>
-</html5>
-
- 
+  
 
 #### Ferramentas utilizadas:
 - Dados tratados com Python
