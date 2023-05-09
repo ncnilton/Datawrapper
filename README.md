@@ -1,6 +1,8 @@
 # Datawrapper
 
-Datawrapper é uma plataforma de visualização de dados que permite criar gráficos, mapas e tabelas interativos e responsivos. Com uma interface fácil de usar, você pode importar dados de diferentes fontes, personalizar a aparência e os recursos interativos do gráfico e, em seguida, incorporá-lo em seu site ou compartilhá-lo nas redes sociais. Além disso, a Datawrapper oferece recursos de segurança para proteger seus dados e privacidade, tornando-a uma ferramenta popular para jornalistas, organizações sem fins lucrativos e empresas que desejam apresentar seus dados de forma clara e impactante.
+Datawrapper é uma plataforma de visualização de dados que permite criar gráficos, mapas e tabelas interativos e responsivos.
+Com uma interface fácil de usar, você pode importar dados de diferentes fontes, personalizar a aparência e os recursos interativos do gráfico e, em seguida, incorporá-lo em seu site ou compartilhá-lo nas redes sociais. 
+Além disso, a Datawrapper oferece recursos de segurança para proteger seus dados e privacidade, tornando-a uma ferramenta popular para jornalistas, organizações sem fins lucrativos e empresas que desejam apresentar seus dados de forma clara e impactante.
 
 # Dashboard com Datawrapper
 
