@@ -10,14 +10,20 @@ assistidos, distribuidos por pais, lingua, número de horas visualizados, suas p
 
 Para quem gosta de manipular dados, identificar tendências e insights é um boa oportunidade para estimular a criatividade !!
 
-- Acesse o site
+- Acesse o Dashboard
 <html5>
 <a href="https://ncnilton.github.io/Datawrapper/" target="_blank"><img align="center" alt="html5" src = "docs/SiteDash.png"?style=for-the-badge&logo=r&logoColor=white" height=32 /> </a>
 <p><p>
 </html5>
-  
 
-#### Ferramentas utilizadas:
+  - Fonte de informações
+<html5>
+		<a href="https://top10.netflix.com/"><img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"></a>
+		<a href="https://youtu.be/fCu6zn06-JY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+		
+</html5>
+  
+  #### Ferramentas utilizadas:
 - Dados tratados com Python
 - Geração dos graficos com Datawrapper
 - Criação do Dashboard em HTML5
